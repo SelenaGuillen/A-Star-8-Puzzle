@@ -31,3 +31,6 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
+
+# Files we don't really need
+*..vs
