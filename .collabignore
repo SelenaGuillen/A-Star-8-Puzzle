@@ -33,5 +33,5 @@ sysinfo.txt
 *.stackdump
 
 # Files we don't really need
-*..vs
-*.Assets
+/.vs
+/Assets
