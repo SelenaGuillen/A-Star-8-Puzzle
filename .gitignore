@@ -1,6 +1,6 @@
 # folders we don't need 
-/.vs
-/Library
-/Packages
-/ProjectSettings
-/obj
+.vs
+Library
+Packages
+ProjectSettings
+obj
