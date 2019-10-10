@@ -34,3 +34,4 @@ sysinfo.txt
 
 # Files we don't really need
 *..vs
+*.Assets
